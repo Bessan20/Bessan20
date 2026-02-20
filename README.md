@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Baisan Mohamed 👋  
 
-<!--
-**Bessan20/Bessan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate (Excellent with Honors)  
+💻 Node.js Developer  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a highly motivated Computer Science graduate with an Excellent grade with Honors.  
+I specialize in backend development using Node.js and enjoy building efficient, scalable applications.  
+I am passionate about continuous learning and professional growth.  
+Currently, I work as a computer science teacher at a school in Port Said, Egypt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- Programming Languages: C++, Python, JavaScript  
+- Backend Development: Node.js  
+- Databases: MongoDB, MySQL  
+
+## 🎯 Career Goal
+To work as a professional software engineer in an international company.
